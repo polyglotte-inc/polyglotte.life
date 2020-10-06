@@ -14,7 +14,8 @@ theme: minima
 github:
   is_project_page: true
 
-google_analytics: UA-179861924-2
+# Don't use this, look at _includes/ga.js
+#google_analytics: UA-179861924-2
 
 
 # Minima date format
