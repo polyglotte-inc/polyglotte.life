@@ -7,7 +7,6 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <!--<p class="site-subtitle">{{ site.subtitle | escape }}</p>-->
 
-    {%- if titles_size > 0 -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -19,19 +18,9 @@
         </label>
 
         <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.showtop -%}
-              {%- if my_page.smalltitle -%}
-              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.smalltitle | escape }}</a>
-              {%- else if my_page.title - %}
-              <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {%- endif -%}
-            {%- endif -%}
-          {%- endfor -%}
+          <a class="page-link" href="https://www.polyglotte.io">Polyglotte</a>
         </div>
       </nav>
-    {%- endif -%}
     <img src="/assets/polyglotte_logo_r_high_res.png" alt="Polyglotte">
   </div>
 </header>

@@ -3,7 +3,7 @@ subtitle: One keyboard - Many languages
 author: Daniela Semeco, CEO
 description: > # this means to ignore newlines until "show_excerpts:"
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 email: daniela@polykeyboards.com
 url: https://polyglotte.life/
 theme: minima
@@ -12,7 +12,10 @@ theme: minima
 #  - about.md
 #  - privacypolicy.md
 github:
-  is_project_page: false
+  is_project_page: true
+
+#google_analytics: UA-NNNNNNNN-N
+
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -20,14 +23,14 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  #social_links:
-    #twitter: jekyllrb
+  social_links:
+    twitter: polyglotte_inc
     #github:  jekyll
     #rss: rss
-    # facebook: jekyll
+    facebook: Polyglotte-Inc-506078739446194
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    instagram: polyglotte_inc
+    linkedin: daniela-semeco
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
