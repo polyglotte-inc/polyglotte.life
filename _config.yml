@@ -1,1 +1,43 @@
-theme: jekyll-theme-minimal
+title: Polyglotte Life
+subtitle: One keyboard - Many languages
+author: Daniela Semeco, CEO
+description: > # this means to ignore newlines until "show_excerpts:"
+
+show_excerpts: false # set to true to show excerpts on the homepage
+email: daniela@polykeyboards.com
+url: https://polyglotte.life/
+theme: minima
+#header_pages:
+#  - index.md
+#  - about.md
+#  - privacypolicy.md
+github:
+  is_project_page: false
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  #social_links:
+    #twitter: jekyllrb
+    #github:  jekyll
+    #rss: rss
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+
+titles_from_headings:
+  enabled: true
+  strip_title: true # Prevents double titles on the Product Page
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-titles-from-headings
