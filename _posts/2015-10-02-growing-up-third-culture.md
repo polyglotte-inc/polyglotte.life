@@ -14,15 +14,18 @@ That’s when I answer, “I’m American, but not American born.”
 The Beginning
 
 From left to right: My father, older sister, mom and neighbors
-From left to right: My father, older sister, mom and neighbors
+
+
 I was born in Venezuela to two Venezuelan parents… Caraqueña, meaning “from Caracas,” the capital of the country. My father brought us to the U.S. when he received a full scholarship to Georgia Tech, where we stayed in family dorms. He was studying computer science, something very few people understood at the time.
 
 Growing up, I wasn’t exposed to the same children’s stories most American kids are. My sisters and I learned English more quickly than our parents, seemingly through osmosis. As a child, I would sing along with songs on the radio, not knowing what the words meant. To this day, I can recall every word to some 80’s songs, and as I sing, I discover their meaning as if for the first time.
 
 Georgia Tech family dorms circa 1985
-Georgia Tech family dorms circa 1985
+
+
 Being an immigrant isn’t easy. It sure is interesting, though. Many of us develop identity crises in high school, and as we get older, we realize it’s O.K. to be different. Our knowledge of other cultures can make us see the world through a more critical eye. We are third-culture kids, global citizens of the world. Third-culture kids are people who travel extensively between the ages of 2 and 18, during which their vision of the world is being formed. They combine their knowledge of other cultures into their own ‘third culture.’ My older and younger sisters were born in the U.S. They were American. My twin sister and I weren’t, because we were born in Venezuela, and our parents weren’t U.S. citizens.
-From left to right: Maria Daniela, Maria Beatriz, Maria Estela, Maria Gabriela (my twin)  and my mom, Fanny
+
+
 From left to right: Maria Daniela, Maria Beatriz, Maria Estela, Maria Gabriela (my twin) and my mom, Fanny
 
 As a teenager, I made a master plan to learn five languages before I die. I realized I was lucky to speak both English and Spanish fluently. Knowing Spanish would allow me to learn French and Italian more easily. English would make it easier to learn German. I had a passion for music, and I was determined to learn the languages of Opera. I also didn’t want to go into debt. Both of my parents had studied in university for free, and I realized I could do the same if I studied abroad.
