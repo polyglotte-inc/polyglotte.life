@@ -10,6 +10,7 @@ In Spanish there are many accent rules. Some are easy to decipher in context, wh
 If you count the words in a Spanish dictionary, you may find about 190K words, 50K of them with written accents. Of course, this depends on the dictionary. Language is not an exact science, but I believe that when you learn these three rules that you can improve your spelling proficiency in Spanish by 26% or more.
 
 First and foremost, you should be able to hear which syllable is being stressed. Aguda words are stressed on the last syllable, grave words stress the penultimate syllable, and esdrújula words stress a syllable before the penultimate one (e.g. papel, puerta, anónimo, respectively). Once you can make out which syllable is being stressed, you can start to learn whether to mark the word with an accent acute ( ´ ) or not.
+
 The Three Magic Rules
 
 Aguda:
