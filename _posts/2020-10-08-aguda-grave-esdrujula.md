@@ -11,7 +11,7 @@ If you count the words in a Spanish dictionary, you may find about 190K words, 5
 
 First and foremost, you should be able to hear which syllable is being stressed. Aguda words are stressed on the last syllable, grave words are stressed on the penultimate syllable, and esdrújula words are stressed before the penultimate syllable (e.g. papel, puerta, anónimo, respectively). Once you can make out which syllable is being stressed, you can start to learn whether to mark the word with an acute accent ( ´ ) or not.
 
-The Three Magic Rules
+# The Three Magic Rules
 
 ## Aguda:
 
