@@ -13,6 +13,8 @@ That’s when I answer, “I’m American, but not American born.”
 
 ## The Beginning
 
+![](/assets/Daniela-blog-post-photo-1-300x233.jpg)
+
 From left to right: My father, older sister, mom and neighbors
 
 
@@ -20,11 +22,14 @@ I was born in Venezuela to two Venezuelan parents… Caraqueña, meaning “from
 
 Growing up, I wasn’t exposed to the same children’s stories most American kids are. My sisters and I learned English more quickly than our parents, seemingly through osmosis. As a child, I would sing along with songs on the radio, not knowing what the words meant. To this day, I can recall every word to some 80’s songs, and as I sing, I discover their meaning as if for the first time.
 
+![](/assets/Daniela-blog-post-photo-2-300x226.jpg)
+
 Georgia Tech family dorms circa 1985
 
 
 Being an immigrant isn’t easy. It sure is interesting, though. Many of us develop identity crises in high school, and as we get older, we realize it’s O.K. to be different. Our knowledge of other cultures can make us see the world through a more critical eye. We are third-culture kids, global citizens of the world. Third-culture kids are people who travel extensively between the ages of 2 and 18, during which their vision of the world is being formed. They combine their knowledge of other cultures into their own ‘third culture.’ My older and younger sisters were born in the U.S. They were American. My twin sister and I weren’t, because we were born in Venezuela, and our parents weren’t U.S. citizens.
 
+![](/assets/Daniela-blog-post-photo-3-300x206.jpg)
 
 From left to right: Maria Daniela, Maria Beatriz, Maria Estela, Maria Gabriela (my twin) and my mom, Fanny
 
