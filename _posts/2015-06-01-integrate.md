@@ -5,8 +5,6 @@ categories: misc
 published: true
 ---
 
-# Integrate, Integrate, Integrate
-
 > *"Learn a new language, and get a new soul."*
 >    -Czech proverb
 
