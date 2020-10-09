@@ -10,14 +10,20 @@ CEO, Polyglotte® İnc.
 
 169 11th Street
 San Francisco, CA 94103
+
 www.polykeyboards.com
+
 
 
 December 20, 2015
 
+
 President of the United States
+
 1600 Pennsylvania Avenue
+
 Washington, DC 20500
+
 
 Dear Mr. President,
 
