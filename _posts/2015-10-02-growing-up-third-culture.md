@@ -4,9 +4,6 @@ title: Growing Up Third Culture
 categories: misc
 published: true
 ---
-# Growing Up Third Culture
-
-
 
 What does it mean it to be a naturalized citizen? An alien no more? What do you say when people ask, “Where are you from?”
 
