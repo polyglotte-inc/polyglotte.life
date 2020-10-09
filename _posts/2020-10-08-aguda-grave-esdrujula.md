@@ -5,8 +5,6 @@ categories: misc
 published: true
 ---
 
-# Aguda, Grave, Esdrújula
-
 In Spanish there are many accent rules. Some are easy to decipher in context, while others require an esoteric mathematical formula to understand. The goal of this blog post is to demystify the toughest accent rules because, as mysterious as they may be, they’re not hard to learn. As a kid, I grew up speaking English and Spanish, but I hadn’t studied Spanish in school. One day, when I was at the beach with family, my aunt, (a former school teacher), sat down with me and taught me the three magic accent rules: aguda, llana (grave), y esdrújula. She taught me this lesson and tested me on it several times throughout the day. In the course of one afternoon, I was able to learn my accents, and it changed my life. It permitted me to write essays while attending university in Caracas. It’s also the reason I’ve been able to work as an interpreter for over ten years. This is why I like to tell parents to teach these accent rules to their children––it will greatly improve their Spanish spelling and boost their confidence.
 
 If you count the words in a Spanish dictionary, you may find about 190K words, 50K of them with written accents. Of course, this depends on the dictionary. Language is not an exact science, but I believe that when you learn these three rules that you can improve your spelling proficiency in Spanish by 26% or more.
