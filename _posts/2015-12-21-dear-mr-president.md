@@ -11,7 +11,7 @@ CEO, Polyglotte® İnc.
 169 11th Street
 San Francisco, CA 94103
 
-(www.polykeyboards.com)
+www.polykeyboards.com
 
 
 
@@ -27,7 +27,7 @@ Washington, DC 20500
 
 Dear Mr. President,
 
-I'd like to propose a solution to a problem you addressed in 2008 concerning the need for better language education in our country (http://www.youtu.be/BZprtPat1Vk). At a town hall in Powder Springs, Georgia not long before your election to the presidency, you encouraged Americans to become multilingual in two or more languages, like the rest of the world. It's true, we're pretty far behind. In Europe, for example, 10% of the population speaks over four languages; in the U.S., 70% of the population speaks only one.
+I'd like to propose a solution to a problem you addressed in 2008 concerning the need for better language education in our country http://youtu.be/BZprtPat1Vk. At a town hall in Powder Springs, Georgia not long before your election to the presidency, you encouraged Americans to become multilingual in two or more languages, like the rest of the world. It's true, we're pretty far behind. In Europe, for example, 10% of the population speaks over four languages; in the U.S., 70% of the population speaks only one.
 
 Learning a language consists of making clear impressions on the brain. We should begin by making the learning process more natural. We could make innovative learning materials more accessible to students and create opportunities for them to travel and discover the world.
 
