@@ -14,7 +14,7 @@ They ask, “You’re American, right?”
 
 That’s when I answer, “I’m American, but not American born.”
 
-The Beginning
+## The Beginning
 
 From left to right: My father, older sister, mom and neighbors
 
@@ -40,7 +40,7 @@ Following my master plan, I began to learn German intensely. German is difficult
 Around the same time, a Colombian friend of mine qualified for a scholarship to study in Germany. I researched the program, and to my dismay, I didn’t qualify, because I wasn’t yet a U.S. citizen. My application was in review. My Colombian friend, Maria, had come to the U.S. with her family seeking asylum, and they were all citizens. They’d been in the country only for a few years.
 I’d been in the U.S. most of my life.
 
-The Test
+## The Test
 
 Becoming a U.S. citizen isn’t difficult. However, many people hesitate to do it, perhaps due to the intimidation factor.
 
@@ -57,4 +57,4 @@ Now I’m pursuing a patent for a multi-language keyboard I invented, another co
 
 Daniela Semeco, the inventor of the PolyKeyboard, is a multilinguist from Venezuela who acquired her language skills during time spent in France, Germany, the United States and Venezuela. Her company, Polyglotte Inc., is a benefit corporation facilitating the use of language through the PolyKeyboard. This story is Semeco’s personal journey to citizenship. 
 
-This article was featured on the 'New Americans Campaign' website!
+This article was featured on the ['New Americans Campaign' website!](https://www.newamericanscampaign.org/growing-up-third-culture/)
