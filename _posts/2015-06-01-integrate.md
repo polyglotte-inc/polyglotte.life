@@ -11,6 +11,10 @@ published: true
 >    -Czech proverb
 
 
+
+
+
+
 That’s what it means to be a polyglot. Your soul is split into a multicolor prism. It changes you forever.
 
 Learning a language means integrating it into one's life. When you're walking down the street, how much energy does it take to wave to a friend?
