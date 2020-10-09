@@ -29,7 +29,7 @@ If the stress lies before the penultimate syllable, you always write the acute a
 There you have it! That wasn’t too hard, was it?
 Ready to test your new superpower? Download our FREE multilingual keyboard!
 
-[FREE iPad](https://apps.apple.com/app/id1501301014?fbclid=IwAR3qle-14GnFKx6ruXGtMS9UiuayVF7Bq0zMyil1uhym5t3ABE61JkUu2SI)
+[FREE iPad app](https://apps.apple.com/app/id1501301014?fbclid=IwAR3qle-14GnFKx6ruXGtMS9UiuayVF7Bq0zMyil1uhym5t3ABE61JkUu2SI)
 
 [FREE Windows driver](https://drive.google.com/file/d/1o1E3EpX8cap-du3aAY1iDPNDpH5O7RyB/view?usp=sharing) and [DIY kit](/assets/DIY_kit.pdf)
 
