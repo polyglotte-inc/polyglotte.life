@@ -2,13 +2,15 @@
 layout: post
 published: true
 ---
+# Dear Mr. President
+
+
+
 Daniela Semeco
 CEO, Polyglotte® İnc.
 169 11th Street
 San Francisco, CA 94103
 www.polykeyboards.com
-
-# Dear Mr. President
 
 
 December 20, 2015
