@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aguda, Grave, Esdrujula
+title: Aguda, Grave, Esdrújula
 categories: misc
 published: true
 ---
