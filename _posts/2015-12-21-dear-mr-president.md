@@ -7,6 +7,7 @@ published: true
 
 Daniela Semeco
 CEO, Polyglotte® İnc.
+
 169 11th Street
 San Francisco, CA 94103
 www.polykeyboards.com
