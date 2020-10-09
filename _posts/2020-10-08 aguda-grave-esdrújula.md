@@ -15,16 +15,16 @@ First and foremost, you should be able to hear which syllable is being stressed.
 
 The Three Magic Rules
 
-Aguda: (h3)
+## Aguda: (h3)
 
 If a word is stressed at the last syllable, you only write the acute accent when it ends in ‘n’, ‘s’ or a vowel (palabra aguda). For instance:. constitución, habló, interés. Words that end in other letters are not marked with an accent (e.g. papel, correr, feliz).
 
 
-Grave (Llana): (h3)
+## Grave (Llana): (h3)
 
 This category follows a logic that is opposite to that of aguda. Only words that don’t end in a vowel, ‘s’, or ‘n’ are marked with an accent when the second to last syllable is stressed (e.g. fácil, lápiz, béisbol, encanto, mañana, presentimiento).
 
-Esdrújula: (h3)
+## Esdrújula: (h3)
 
 If the stress lies before the penultimate syllable, you always write the acute accent (in Spanish palabra esdrújula and sobreesdrújula... An example by itself. More examples: bolígrafo, pálpito, lágrima.
 
