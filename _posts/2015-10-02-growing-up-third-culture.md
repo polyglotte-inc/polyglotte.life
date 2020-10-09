@@ -55,6 +55,6 @@ Before you know it, I was in a room full of newly naturalized citizens. We sang 
 
 Now I’m pursuing a patent for a multi-language keyboard I invented, another consequence of my life’s geographically diverse journey, and the role it’s played in shaping my experiences and my life.
 
-Daniela Semeco, the inventor of the PolyKeyboard, is a multilinguist from Venezuela who acquired her language skills during time spent in France, Germany, the United States and Venezuela. Her company, Polyglotte Inc., is a benefit corporation facilitating the use of language through the PolyKeyboard. This story is Semeco’s personal journey to citizenship. 
+Daniela Semeco, the inventor of the Polyglotte keyboard, is a multilinguist from Venezuela who acquired her language skills during time spent in France, Germany, the United States and Venezuela. Her company, Polyglotte Inc., is a benefit corporation facilitating the use of language through the Polyglotte keyboard. This story is Semeco’s personal journey to citizenship. 
 
 This article was featured on the ['New Americans Campaign' website!](https://www.newamericanscampaign.org/growing-up-third-culture/)
