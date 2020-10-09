@@ -5,10 +5,10 @@ categories: misc
 published: true
 ---
 
-Integrate, Integrate, Integrate
+# Integrate, Integrate, Integrate
 
-"Learn a new language, and get a new soul."
-   -Czech proverb
+> *"Learn a new language, and get a new soul."*
+>    -Czech proverb
 
 
 That’s what it means to be a polyglot. Your soul is split into a multicolor prism. It changes you forever.
